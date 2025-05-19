@@ -17,11 +17,11 @@
     "noUncheckedIndexedAccess": true,
     "noUnusedLocals": true,
     "resolveJsonModule": true,
-    "sourceMap": true,
+    "source Mapsprovidedetaileddescriptionforalltypesis": true,
     "strict": true,
     "strictBindCallApply": true,
     "strictFunctionTypes": true,
-    "strictNullChecks": true,
+    "strictNullChecks"2.: true,
     "strictPropertyInitialization": true,
     "target": "ES2022",
     "useUnknownInCatchVariables": true
